@@ -1,0 +1,26 @@
+.filter-panel {
+    width: 280px;
+    padding: 1rem;
+    background: #fff;
+    border-right: 1px solid #e0e0e0;
+    overflow-y: auto;
+  }
+  .filter-panel h4 {
+    margin-bottom: 0.75rem;
+    font-size: 1.125rem;
+  }
+  .filter-panel label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+  .filter-panel input {
+    margin-right: 0.5rem;
+  }
+  .checkbox-list {
+    max-height: 200px;
+    overflow-y: auto;
+    padding-left: 0.5rem;
+  }
+  
