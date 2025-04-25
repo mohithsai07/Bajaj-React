@@ -1,0 +1,6 @@
+/* src/components/FilterPanel.css */
+.filter-panel { width:280px; padding:1rem; background:#fff; border-right:1px solid #e0e0e0; overflow-y:auto; }
+.filter-panel h4 { font-size:1.1rem; margin-bottom:0.5rem; font-weight:600; }
+.filter-panel label { display:block; margin:0.5rem 0; cursor:pointer; }
+.filter-panel input { margin-right:0.5rem; }
+.checkbox-list { max-height:200px; overflow-y:auto; padding-left:0.5rem; }
